@@ -11,6 +11,7 @@ Uygulama, Jetpack Compose, Hilt ve Retrofit gibi modern Android teknolojileri il
 - **Karakter Detayları:** Her bir karakterin detaylı bilgilerine ulaşılabilir.
 - **Hilt ile Dependency Injection:** Uygulama, Hilt kullanılarak daha verimli ve test edilebilir bir yapı ile geliştirilmiştir.
 - **Retrofit ile API İletişimi:** Karakter verileri, REST API üzerinden alınır ve UI'de gösterilir.
+- **Hata Yönetimi**: API'de bir sorun olması durumunda, kullanıcıya uygun hata mesajları gösterilir.
 
 ## Kullanılan Teknolojiler
 
